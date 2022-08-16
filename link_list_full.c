@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
+//push link?
+//https://github.com/pan78m/https---github.com-pan78m-link_list
 struct node
 {
     int data;
